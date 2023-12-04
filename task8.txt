@@ -1,0 +1,8 @@
+.gitignore
+.idea
+JavaLesson1.iml
+log.config
+out
+src
+task6.txt
+task8.txt
